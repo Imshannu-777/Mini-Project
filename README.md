@@ -44,4 +44,4 @@ API keys are entered at runtime by the user and are
 never stored in the code — safe to use publicly.
 
 ## 👨‍💻 Developed By
-[Your Name] — Mini Project
+Shanmugam D — Mini Project
